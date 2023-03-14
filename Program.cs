@@ -1,5 +1,5 @@
 ﻿using System;
-class Rabota
+class Lab3
 {
     static void Main()
     {
